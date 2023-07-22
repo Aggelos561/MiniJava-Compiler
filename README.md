@@ -55,7 +55,7 @@ To compile the MiniJava compiler and execute the examples, follow these steps:
    ```
    or
    ```bash
-   make execute FOLDER=path/to/your_folder
+   make execute DIR=path/to/your_folder
    ```
 
    The compiled LLVM IR files for each MiniJava source file will be generated in the same folder with `.ll` extensions.
