@@ -77,6 +77,4 @@ To compile the MiniJava compiler and execute the examples, follow these steps:
 The `minijava-examples/passed` folder contains MiniJava example files that should compile successfully. The `minijava-examples/errors` folder contains files that are expected to throw errors during compilation due to semantic issues.
 
 
-Feel free to contribute, report issues, or suggest improvements.
-
 Please note that this is a simplified version of the MiniJava compiler, and it may not cover all edge cases and features of the full Java language.
